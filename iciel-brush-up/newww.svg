@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="newww.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="259.72087"
+     inkscape:cy="436.90569"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="main">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:6.61458302px;font-family:'Fira Sans Condensed';-inkscape-font-specification:'Fira Sans Condensed, weight=250 Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="55.184525"
+         y="164.51935"
+         id="text4487"><tspan
+           sodipodi:role="line"
+           id="tspan4485"
+           x="55.184525"
+           y="164.51935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'iCiel Brush Up';-inkscape-font-specification:'iCiel Brush Up';stroke-width:0.26458332">ABC</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="baseline"
+         d="M 41.577381,164.14137 H 112.82589"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.34799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g4526">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4501"
+           d="m 56.928408,163.2316 3.608139,-10.55715 1.603618,-4.81085 2.672694,3.0736 1.33635,5.34539 0.534537,4.94449 0.534541,2.27179 -3.073601,-6.41447 -3.608139,0.80181 v 0"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#fd0000;stroke-width:1.24800003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4529">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4503"
+           d="m 71.628232,163.6325 0.267269,-16.1698 3.207237,-0.53454 3.474503,0.66817 0.133633,4.94449 -4.276313,1.20271 0.267272,0.66817 5.078119,0.80181 0.133635,5.61266 -5.746294,3.0736 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#fd0000;stroke-width:1.24799991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4532">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4505"
+           d="m 92.341619,151.33811 -2.271789,-4.54359 -3.474505,1.33635 -0.935443,6.41447 -0.267269,5.47903 3.474503,2.67269 5.078122,-3.0736 0.267269,-1.73725 -0.668174,-1.73725 v -0.13364"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#fd0000;stroke-width:1.24799991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
